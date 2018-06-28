@@ -4,7 +4,8 @@
 #
 # This work is licensed under a MIT License.
 # https://github.com/neofelhz/neohosts/blob/data/LICENSE
-#
+# get
+# https://raw.githubusercontent.com/Lazycat2017/adawayhosts/master/Full-Hosts.txt
 #*********************************************************
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1 localhost
